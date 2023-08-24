@@ -9225,7 +9225,7 @@
 	},
 /area/syndicate_mothership)
 "eNQ" = (
-/turf/simulated/wall/indestructible/splashcreen,
+/turf/simulated/wall/indestructible/splashscreen,
 /area/start)
 "eNU" = (
 /obj/structure/chair/sofa/left{
@@ -29846,6 +29846,10 @@
 	dir = 8;
 	tag = "icon-tube1 (WEST)"
 	},
+/obj/item/gun/projectile/automatic/m52,
+/obj/item/ammo_box/magazine/m52mag,
+/obj/item/ammo_box/magazine/m52mag,
+/obj/item/ammo_box/magazine/m52mag,
 /turf/simulated/floor/shuttle{
 	icon_state = "floor4"
 	},
@@ -46697,13 +46701,6 @@
 	},
 /area/shuttle/assault_pod)
 "wyB" = (
-/obj/machinery/camera{
-	c_tag = "Centaral Command Supreme Court";
-	dir = 1;
-	network = list("SS13","CentComm");
-	pixel_x = 12;
-	pixel_y = -6
-	},
 /obj/item/twohanded/required/kirbyplants,
 /obj/machinery/light,
 /turf/simulated/floor/plasteel{
@@ -111105,21 +111102,21 @@ mVX
 mVX
 "}
 (237,1,1) = {"
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+eNQ
 mVX
 mVX
 mVX
@@ -111362,21 +111359,21 @@ mVX
 mVX
 "}
 (238,1,1) = {"
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
 mVX
 mVX
 mVX
@@ -111619,21 +111616,21 @@ mVX
 mVX
 "}
 (239,1,1) = {"
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
 mVX
 mVX
 mVX
@@ -111876,21 +111873,21 @@ mVX
 mVX
 "}
 (240,1,1) = {"
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
-mVX
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
+xVn
 mVX
 mVX
 mVX
@@ -112147,7 +112144,7 @@ xVn
 xVn
 xVn
 xVn
-eNQ
+xVn
 mVX
 mVX
 mVX
@@ -113425,7 +113422,7 @@ xVn
 xVn
 xVn
 xVn
-xVn
+dEd
 xVn
 xVn
 xVn
@@ -113939,7 +113936,7 @@ xVn
 xVn
 xVn
 xVn
-dEd
+xVn
 xVn
 xVn
 xVn
